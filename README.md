@@ -1,10 +1,9 @@
 # **Pyre Browser**
 ![Alt text](images/logo.jpg?raw=true "Title")
 
-| PYRE BROWSER |
+| # PYRE BROWSER |
 | --- |
-| Explore With Freedom Again |
-| --- |
+| **Explore With Freedom Again** |
 | No Hosting Fees • No Need For Servers • Own Domains For Life |
 | Perfect Site Indexing • No Advertising Bias • No Censorship |
 | Integrated Payment Gateway • No Fees • Ecommerce On All Sites |
