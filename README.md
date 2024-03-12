@@ -20,7 +20,7 @@ Pyre Browser supports all major frameworks and has several templates that can be
 4. Run Command: `npm run build`
 5. Search for the domain you want in the address bar, upload the build folder and then purchase the site. We automatically host new sites for a few weeks for others to seed.
 
-## Perfectly Indexed Sites • No Advertising Bias • No Censorship • Explore With Freedom Again
+## Perfectly Indexed Sites • No Advertising Bias • No Censorship
 PyreSearch pulls all websites from the blockchain and indexes them thoroughly. It uses a completely unbiased search algorithm and has no cencorship or monetary influence.
 
 ## Integrated Crypto ID and Payment system for all sites
