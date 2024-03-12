@@ -2,9 +2,9 @@
 ![Alt text](images/logo.jpg?raw=true "Title")
 
 | PYRE BROWSER |
-| - - - |
+| --- |
 | Explore With Freedom Again |
-| - - - |
+| --- |
 | No Hosting Fees • No Need For Servers • Own Domains For Life |
 | Perfect Site Indexing • No Advertising Bias • No Censorship |
 | Integrated Payment Gateway • No Fees • Ecommerce On All Sites |
@@ -53,7 +53,7 @@ PyreSwarm (WIP) is a decentralized database that shares files between users for 
 
 ## Download
 | Windows | Linux | MacOs |
-| - - - | - - - | - - - |
+| --- | --- | --- |
 | [64-bit](https://pyrebrowser.com/api/downloadWindows) | [64-bit](https://pyrebrowser.com/api/downloadLinux) | 64-bit |
 | 32-bit | ARMv7 | ARM-64 |
 | ARM64 | ARMv8 |   |
