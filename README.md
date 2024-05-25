@@ -1,5 +1,5 @@
 # **Pyre Browser**
-![Alt text](images/logo.jpg?raw=true "Title")
+![Alt text](images/logo.png?raw=true "Title")
 
 | **Explore With Freedom Again** |
 | :---: |
