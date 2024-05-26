@@ -18,7 +18,7 @@ Distributed Database • Earn Money By Hosting Other Users Files
 ## Completely Decentralized Browser
 The Pyre Network is a completely decentralized P2P browser that allows you to host and share websites for free with complete ownership of your domain and no DNS fees. You no longer need to pay annual fees and can put the domain on sale for others to buy within their browser! The sites are shared between users using P2P Swarm infrastructure and blockchain technology so you never need to pay for hosting either. Likely if you are using a database then you will need to use a server like AWS or Vultr but we hope to solve this soon with PyreSwarm - a decentralized swarm database that pays you simply for keeping your browser open and sharing data. Manage cross-chain transactions, swaps, emails and subscriptions with PyrePass, an inbuilt wallet that allows for seamless ecommerce across all sites.
 
-## No Hosting Fees • No Need For Servers • Own Domains For Life
+## No Hosting Fees, No Servers
 Pyre Browser supports all major frameworks and has several templates that can be easily modified. The easiest method to get a site running is as follows:
 1. Download [NodeJS](https://nodejs.org)
 2. Run Command: `npx create-react-app ./my-pyre-site`
@@ -26,7 +26,7 @@ Pyre Browser supports all major frameworks and has several templates that can be
 4. Run Command: `npm run build`
 5. Search for the domain you want in the address bar, upload the build folder and then purchase the site. We automatically host new sites for a few weeks for others to seed.
 
-## Perfectly Indexed Sites • No Advertising Bias • No Censorship
+## Perfectly Indexed Sites
 PyreSearch pulls all websites from the blockchain and indexes them thoroughly. It uses a completely unbiased search algorithm and has no cencorship or monetary influence. Pyre URLs also allow all UTF-8 characters and so all languages are supported!
 
 ## Integrated Crypto ID and Payment system for all sites
