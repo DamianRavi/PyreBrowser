@@ -15,10 +15,15 @@ Decentralized Mail System • Charge People To Advertise To You
 Distributed Database • Earn Money By Hosting Other Users Files
 </div>
 
-##This project will be open source when we get enough revenue:
-<div align="center">$0/$100000</div>
+## This project will go Open Source soon:
 <p align="center">
-  <img width="196px" src="https://progress-bar.dev/0" alt="$0/$100000"/>
+$27532/$250000
+  <img width="196px" src="https://progress-bar.dev/11" alt="$0/$250000"/>
+</p>
+<p align="center">
+<input style="width: 420px; text-align: center; font-weight: bold; border-radius: 4px; font-size: 17px; font-family: monospace; background: grey; color: white;" value="0x00b77906259bB48068E472aF7c5a7a1a494fdead">
+
+<button style="padding: 4px 4px; border-radius: 4px">Donate Ethereum</button> <button style="padding: 4px 4px; border-radius: 4px">Donate Bitcoin</button> <button style="padding: 4px 4px; border-radius: 4px">Donate Glimmer</button>
 </p>
 
 ## Completely Decentralized Browser
