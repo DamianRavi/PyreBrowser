@@ -22,8 +22,11 @@ Distributed Database • Earn Money By Hosting Other Users Files
 <p align="center">
   <img width="196px" src="https://progress-bar.dev/11" alt="$0/$250000"/>
 </p>
-![Static Badge](https://img.shields.io/badge/Donate%20Ethereum-8A2BE2?link=https%3A%2F%2Fetherscan.com%2F0x00b77906259bB48068E472aF7c5a7a1a494fdead) ![Static Badge](https://img.shields.io/badge/Donate%20Bitcon-8A2BE2?link=https%3A%2F%2Fetherscan.com%2F0x00b77906259bB48068E472aF7c5a7a1a494fdead) ![Static Badge](https://img.shields.io/badge/Donate%20Glimmer-8A2BE2?link=https%3A%2F%2Fmoonscan.com%2F0x00b77906259bB48068E472aF7c5a7a1a494fdead)
+![Static Badge](https://img.shields.io/badge/Donate%20Ethereum-8A2BE2?link=https%3A%2F%2Fetherscan.com%2F0x00b77906259bB48068E472aF7c5a7a1a494fdead)
+![Static Badge](https://img.shields.io/badge/Donate%20Bitcon-8A2BE2?link=https%3A%2F%2Fetherscan.com%2F0x00b77906259bB48068E472aF7c5a7a1a494fdead)
+![](https://img.shields.io/badge/Donate%20Glimmer-8A2BE2?link=https%3A%2F%2Fmoonscan.com%2F0x00b77906259bB48068E472aF7c5a7a1a494fdead)
 
+![](https://img.shields.io/badge/Donate%20Glimmer-8A2BE2)(https://moonscan.com/0x00b77906259bB48068E472aF7c5a7a1a494fdead)
 
 ## Completely Decentralized Browser
 The Pyre Network is a completely decentralized P2P browser that allows you to host and share websites for free with complete ownership of your domain and no DNS fees. You no longer need to pay annual fees and can put the domain on sale for others to buy within their browser! The sites are shared between users using P2P Swarm infrastructure and blockchain technology so you never need to pay for hosting either. Likely if you are using a database then you will need to use a server like AWS or Vultr but we hope to solve this soon with PyreSwarm - a decentralized swarm database that pays you simply for keeping your browser open and sharing data. Manage cross-chain transactions, swaps, emails and subscriptions with PyrePass, an inbuilt wallet that allows for seamless ecommerce across all sites.
