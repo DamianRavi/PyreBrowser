@@ -1,7 +1,7 @@
 # **Pyre Browser**
 
 <p align="center">
-  <img width="196px" src="https://github.com/DamianRavi/PyreBrowser/blob/main/images/logo.png?raw=true" alt="Sublime's custom image"/>
+  <img width="196px" src="https://github.com/DamianRavi/PyreBrowser/blob/main/images/logo.png?raw=true" alt="Pyre Browser"/>
 </p>
 
 <div align="center">
@@ -15,10 +15,10 @@ Decentralized Mail System • Charge People To Advertise To You
 Distributed Database • Earn Money By Hosting Other Users Files
 </div>
 
-<p align="center">
 ##This project will be open source when we get enough revenue:
-$0/$100000
-![$0/$100000](https://progress-bar.dev/0)
+<div align="center">$0/$100000</div>
+<p align="center">
+  <img width="196px" src="https://progress-bar.dev/0" alt="$0/$100000"/>
 </p>
 
 ## Completely Decentralized Browser
