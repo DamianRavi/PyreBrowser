@@ -17,13 +17,13 @@ Distributed Database • Earn Money By Hosting Other Users Files
 
 ## This project will go Open Source soon:
 <p align="center">
-$27532/$250000
+  $27532/$250000
+</p>
+<p align="center">
   <img width="196px" src="https://progress-bar.dev/11" alt="$0/$250000"/>
 </p>
 <p align="center">
-<input style="width: 420px; text-align: center; font-weight: bold; border-radius: 4px; font-size: 17px; font-family: monospace; background: grey; color: white;" value="0x00b77906259bB48068E472aF7c5a7a1a494fdead">
-
-<button style="padding: 4px 4px; border-radius: 4px">Donate Ethereum</button> <button style="padding: 4px 4px; border-radius: 4px">Donate Bitcoin</button> <button style="padding: 4px 4px; border-radius: 4px">Donate Glimmer</button>
+0x00b77906259bB48068E472aF7c5a7a1a494fdead
 </p>
 
 ## Completely Decentralized Browser
