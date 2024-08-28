@@ -63,6 +63,6 @@ PyreSwarm (WIP) is a decentralized database that shares files between users for 
 ## Download
 | Windows | Linux | MacOs |
 | --- | --- | --- |
-| [64-bit](https://github.com/DamianRavi/PyreBrowser-win32-x64/releases/latest/download/Pyre-0.9.6.Setup.exe) | 64-bit | 64-bit |
+| [64-bit](https://github.com/DamianRavi/PyreBrowser-win32-x64/releases/latest/download/Pyre-1.0.4.Setup.exe) | 64-bit | 64-bit |
 | 32-bit | ARMv7 | ARM-64 |
 | ARM64 | ARMv8 |   |
