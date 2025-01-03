@@ -51,14 +51,7 @@ PyreSwarm (WIP) is a decentralized database that shares files between users for 
 - [x] Publish it
 - [ ] PyreSwarm
 - [ ] PyreEx
-- [ ] PyreADs
-- [ ] PyreMarket
-- [ ] @
-- [ ] GaiaWork/GaiaSource
-- [ ] Bank
-- [ ] Music Buying Site
-- [ ] Dragon Bets - equal dao distribution but each bet gives 1 more share to the user
-- [ ] Templates: Ecommerce, Blog, Logistical
+- [x] PyreADs
 
 ## Download
 | Windows | Linux | MacOs |
